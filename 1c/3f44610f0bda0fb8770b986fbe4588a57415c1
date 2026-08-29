@@ -1,0 +1,24 @@
+README.md
+  s_f5c71105c34612::t_8cffbc3342c2a6 1,3,5-6,10,12-17,19-40,42,44,46,48-54,56,59-60,62-63,67-68,70,74,76,78-81,83,86,89-91,95,97,99-108,110,112,114,116-121,124-151,154,157-172,174,177,181-190,192-228,232,238-266,268-314,318-353,355,357,362,364,366-371,373-388,392,395-420,425-456,458-475,481-492
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "1c3f44610f0bda0fb8770b986fbe4588a57415c1",
+  "prompts": {},
+  "humans": {
+    "h_8fb7950fc2339f": {
+      "author": "Bhavesh Soni <bhavesh.soni@example.com>"
+    }
+  },
+  "sessions": {
+    "s_f5c71105c34612": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d5ca244c-6a64-4640-8385-cabf25506b6a",
+        "model": "us.anthropic.claude-haiku-4-5-20251001-v1:0"
+      },
+      "human_author": "Bhavesh Soni <bhavesh.soni@example.com>"
+    }
+  }
+}
