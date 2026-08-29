@@ -1,0 +1,63 @@
+.env.example
+  s_f5c71105c34612::t_e1a68d956bbc4d 1-14
+.gitignore
+  s_f5c71105c34612::t_03fdf82e2a62b9 1-33
+Dockerfile
+  s_f5c71105c34612::t_63fb0901f58e17 1-16
+LICENSE
+  s_f5c71105c34612::t_6163b84b1ae4d5 1-21
+README.md
+  s_f5c71105c34612::t_2cb4912a592e4f 1-215
+app/__init__.py
+  s_f5c71105c34612::t_da831f2846df02 1
+app/config.py
+  s_f5c71105c34612::t_5649625615497b 1-36
+app/linkedin/__init__.py
+  s_f5c71105c34612::t_d168dac1a48f46 1-23
+app/linkedin/client.py
+  s_f5c71105c34612::t_5d089a52f98c77 1-320
+app/linkedin/exceptions.py
+  s_f5c71105c34612::t_3c3ca70f764084 1-33
+app/linkedin/normalize.py
+  s_f5c71105c34612::t_5d7cc3d5d862ea 1-650
+app/linkedin/parser.py
+  s_f5c71105c34612::t_6e6a883461613e 1-38
+app/main.py
+  s_f5c71105c34612::t_2c7b4146823534 1-40
+app/routes/__init__.py
+  s_f5c71105c34612::t_2be2d5e5bb681d 1
+app/routes/health.py
+  s_f5c71105c34612::t_d2ae6ea62318b1 1-51
+app/routes/profile.py
+  s_f5c71105c34612::t_ff02d442f8d476 1-69
+app/schemas.py
+  s_f5c71105c34612::t_77e49694e90208 1-104
+pytest.ini
+  s_f5c71105c34612::t_18f5210f4e0ea0 1-4
+render.yaml
+  s_f5c71105c34612::t_50ac0af2a501f9 1-13
+requirements-dev.txt
+  s_f5c71105c34612::t_551394d1b745a8 1-2
+requirements.txt
+  s_f5c71105c34612::t_b437e130b0c368 1-6
+tests/test_api.py
+  s_f5c71105c34612::t_f2c8cb46715f55 1-443
+tests/test_parser.py
+  s_f5c71105c34612::t_ebc8229e12da74 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "d54f1f53e6f1ce13947aec140ba8bfbf1b484a36",
+  "prompts": {},
+  "sessions": {
+    "s_f5c71105c34612": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d5ca244c-6a64-4640-8385-cabf25506b6a",
+        "model": "unknown"
+      },
+      "human_author": "Bhavesh Soni <bhavesh.soni@example.com>"
+    }
+  }
+}
