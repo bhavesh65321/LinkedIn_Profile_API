@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: linkedin-profile-api
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: LI_AT
+        sync: false
+      - key: JSESSIONID
+        sync: false
+      - key: PYTHON_VERSION
+        value: "3.12.0"
